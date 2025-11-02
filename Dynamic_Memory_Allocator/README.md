@@ -87,7 +87,7 @@ Start Size Status
 ## How to Run
 1. Clone this repository or download the source file:
    ```bash
-   git clone https://github.com/your-username/Data-Structures-and-Algorithms.git
+   git clone https://github.com/Palakdeep-Singh/Data-Structures-and-Algorithms.git
 2. Navigate to the project folder: ```cd Dynamic_Memory_Allocator```
 3. Compile and run using any C++ compiler:
    ```
