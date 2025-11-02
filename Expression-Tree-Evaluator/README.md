@@ -57,7 +57,7 @@ Evaluated Result: 2
 1. Save the file as `expression_tree_evaluator.cpp`.
 2. Compile the program:
    ```bash
-   g++ expression_tree_evaluator.cpp -o evaluator
+   g++ expression_tree.cpp -o evaluator
 3.Run the executable:
   ```
 ./evaluator
