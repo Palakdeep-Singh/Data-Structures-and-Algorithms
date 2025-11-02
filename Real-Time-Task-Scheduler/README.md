@@ -60,7 +60,7 @@ It calculates performance metrics like **Average Waiting Time** and **Average Tu
 ### **Compile & Run**
 ```
 ```bash
-g++ real_time_task_scheduler.cpp -o scheduler
+g++ task_scheduler.cpp -o scheduler
 ./scheduler
 ```
 
